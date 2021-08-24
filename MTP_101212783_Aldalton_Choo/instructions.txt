@@ -1,0 +1,4 @@
+How to play:
+
+Aim of the game is to go from the top left to the bottom right while visiting the most attraction in 1 game.(also known as longest route)
+You can only move to the right or down.
